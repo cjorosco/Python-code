@@ -12,6 +12,7 @@ is claculated and prints a receipt for the user
 # Display Welcome Message
 
 message = "Welcome to the installation cost calculator"
+print(message)
 
 # Prompt for Company Name and assign the input to a variable
 
